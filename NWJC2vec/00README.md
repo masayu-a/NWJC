@@ -62,7 +62,7 @@ Masayuki Asahara (2018) NWJC2Vec: Word embedding dataset from 'NINJAL Web Japane
 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
 
 ## Credit
-National Institute for Japanese Language and Linguistics (2020) NWJC-n-gram (2014-4Q データ)
+National Institute for Japanese Language and Linguistics (2020) NWJC2vec (2014-4Q データ)
 
 ## Contact
 kotonoha@ninjal.ac.jp

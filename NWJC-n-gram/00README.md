@@ -1,0 +1,44 @@
+# NWJC-n-gram
+
+## Description
+「国語研日本語ウェブコーパス」258億語 (2014-4Qデータ) のn-gram 頻度データ
+文字 1-gram～3-gram、単語 1-gram～6-gram、形態素 1-gram からなる。
+
+## Creator
+人間文化研究機構　国立国語研究所　コーパス開発センター
+
+## Price
+```
+ 	個人利用	団体（非営利）利用	団体（営利）利用
+GSK会員	10,000円（税別）	20,000円（税別）	40,000円（税別）
+非会員	20,000円（税別）	30,000円（税別）	60,000円（税別）
+```
+
+## Date
+2020.9
+
+### Format
+テキストデータ
+
+## Format.encoding
+UTF-8
+
+## Language
+Japanese
+
+## Features 
+
+
+
+## References 
+
+浅原 正幸・河原 一哉・大場 寧子・前川 喜久雄 (2018) 『国語研日本語ウェブコーパス』とその検索系『梵天』, 情報処理学会論文誌, 59(2), pp.299-305.
+
+## License
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+
+## Credit
+National Institute for Japanese Language and Linguistics (2020) NWJC-n-gram (2014-4Q データ)
+
+## Contact
+kotonoha@ninjal.ac.jp

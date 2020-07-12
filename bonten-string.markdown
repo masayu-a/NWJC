@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 『梵天』
+title: 『梵天』の文字列検索
 permalink: /bonten-string
 
 ---
@@ -14,11 +14,11 @@ permalink: /bonten-string
 ### 検索の手順
 1. 文字列検索では、はじめに「文字列検索」タブをクリックする。
 
-![文字列検索](_img/bon2.png?raw=true "文字列検索")
+![文字列検索](_img/bon02.png?raw=true "文字列検索")
 
 1. 「検索文字列」の入力欄に調べたい文字列を入力する。
 
-![文字列検索](_img/bon3.png?raw=true "文字列検索")
+![文字列検索](_img/bon03.png?raw=true "文字列検索")
 
 1. 「URLドメイン」を指定したい場合は、末尾２パート（第２レベルドメイン）を入力する。
 1. 「検索」ボタンを押す。
@@ -32,6 +32,6 @@ permalink: /bonten-string
 #### 例：バルス
 例えば文字列「バルス」を検索すると、以下のような画面が表示される。検索結果ボックスの上部にNWJC内に何件「バルス」という文字列を含む「文」があるか（「4844件の結果が見つかりました」）を表示する。件数が50件以上ある場合の検索結果は、1～50件のみが表示されている。（画面の下部に次の50件へ進む「次へ」リンクが表示される。）
 
-![検索結果](_img/bon4.png?raw=true "検索結果")
+![検索結果](_img/bon04.png?raw=true "検索結果")
 
 「No.1」の「グローバルスタンダード」や「No.2」の「ヘリオガバルス」などが検索結果に含まれることになる。

@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ‘—§‘ŒêŒ¤‹†Šu’´‘å‹K–ÍƒR[ƒpƒXƒvƒƒWƒFƒNƒgv
+title: å›½ç«‹å›½èªžç ”ç©¶æ‰€ã€Œè¶…å¤§è¦æ¨¡ã‚³ãƒ¼ãƒ‘ã‚¹ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€
 
 email: masayu-a@ninjal.ac.jp
 
 description: >- # this means to ignore newlines until "baseurl:"
-  ‘—§‘ŒêŒ¤‹†Šu’´‘å‹K–ÍƒR[ƒpƒXvƒvƒƒWƒFƒNƒg‚Ì¬‰Ê•¨‚ðŒöŠJ‚·‚éWebƒy[ƒW‚Å‚·B
+  å›½ç«‹å›½èªžç ”ç©¶æ‰€ã€Œè¶…å¤§è¦æ¨¡ã‚³ãƒ¼ãƒ‘ã‚¹ã€ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®æˆæžœç‰©ã‚’å…¬é–‹ã™ã‚‹Webãƒšãƒ¼ã‚¸ã§ã™ã€‚
 
 baseurl: "/NWJC" # the subpath of your site, e.g. /blog
 url: "https://masayu-a.github.io" # the base hostname & protocol for your site, e.g. http://example.com

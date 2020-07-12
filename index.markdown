@@ -4,44 +4,44 @@
 
 layout: home
 ---
-# �w���ꌤ���{��E�F�u�R�[�p�X�x
+# 『国語研日本語ウェブコーパス』
 
-## �T�v
-�w���ꌤ���{��E�F�u�R�[�p�X�x�̓E�F�u���W�c�Ƃ���100 ����K�͂�ڕW�Ƃ��č\�z�������{��R�[�p�X�ł��B �E�F�u�iWWW�j��̓��{��e�L�X�g�𗘗p����100����𒴂���K�͂̌�����{��R�[�p�X���\�z���邱�Ƃɂ���āA�H���ꌻ�ۂ̌���w�I�A�S���w�I����я�񏈗��I���_����̋����̉\�����J�����Ƃ�ړI�Ƃ��Ă��܂��B ��̓I�ȉ��p�Ƃ��āA���ꌤ���̂��߂̗p����W�A���{��g�p���Ԃ̒�ʓI�Ȕc���Ȃǂ�z�肵�Ă��܂��B
+## 概要
+『国語研日本語ウェブコーパス』はウェブを母集団として100 億語規模を目標として構築した日本語コーパスです。 ウェブ（WWW）上の日本語テキストを利用して100億語を超える規模の現代日本語コーパスを構築することによって、稀言語現象の言語学的、心理学的および情報処理的視点からの究明の可能性を開くことを目的としています。 具体的な応用として、言語研究のための用例収集、日本語使用実態の定量的な把握などを想定しています。
 
-## �v���W�F�N�g�w����K�̓R�[�p�X�x�v���W�F�N�g
-�w���ꌤ���{��E�F�u�R�[�p�X�x����сw���V�x�́A�������ꌤ�����R�[�p�X�J���Z���^�[�w����K�̓R�[�p�X�x�v���W�F�N�g(2011�N-2015�N)�ɂ��쐬����܂����B
+## プロジェクト『超大規模コーパス』プロジェクト
+『国語研日本語ウェブコーパス』および『梵天』は、国立国語研究所コーパス開発センター『超大規模コーパス』プロジェクト(2011年-2015年)により作成されました。
 
-## �����n�w���V�x
+## 検索系『梵天』
 
-�w���ꌤ���{��E�F�u�R�[�p�X�x�͌����n�w���V�x�Ɋi�[���Č��J���Ă��܂��B
+『国語研日本語ウェブコーパス』は検索系『梵天』に格納して公開しています。
 
 https://bonten.ninjal.ac.jp/
 
-�����n�Ƃ��āu�����񌟍��v�u�i���񌟍��v�u�W��󂯕����،����v��3�ʂ�̌����@�\��񋟂��܂��B ��ʌ��J�ł́u�����񌟍��v�݂̂����p�ł��܂��B
+検索系として「文字列検索」「品詞列検索」「係り受け部分木検索」の3通りの検索機能を提供します。 一般公開版は「文字列検索」のみが利用できます。
 
-�t�����h�G���h�̓R�[�p�X�Ǘ��\�t�g�E�F�A�uChaKi.NET�v���Q�l�ɂ��āA�E�F�u��œ��삷��C���^�[�t�F�C�X�̊J����������Ж��t�Ɉϑ����܂����B �o�b�N�G���h�ɂ͊�����Ѓ��g���o��Sedue for Bigdata��p���Ă��܂��B
+フロンドエンドはコーパス管理ソフトウェア「ChaKi.NET」を参考にして、ウェブ上で動作するインターフェイスの開発を株式会社万葉に委託しました。 バックエンドには株式会社レトリバのSedue for Bigdataを用いています。
 
-�Ȃ��A�w���V�x�� 2021�N9�����������ăT�[�r�X���~���܂��B
+なお、『梵天』は 2021年9月末を持ってサービスを停止します。
 
-## �f�[�^�ɂ���
+## データについて
 
-### �f�[�^�̊�b���v
+### データの基礎統計
 
-2014�N10-12�����W�f�[�^���w���V�x�Ɋi�[���Ă��܂��B�i�[�f�[�^�̊�b���v�͈ȉ��̂Ƃ���ł��F
+2014年10-12月収集データを『梵天』に格納しています。格納データの基礎統計は以下のとおりです：
 
-- ���WURL��	83,992,556
-- �����i�̂א��j	3,885,889,575
-- �����i�قȂ萔�j	1,463,142,939
-- ���ꌤ�Z�P�ʐ�	25,836,947,421
+- 収集URL数	83,992,556
+- 文数（のべ数）	3,885,889,575
+- 文数（異なり数）	1,463,142,939
+- 国語研短単位数	25,836,947,421
 
-### �f�[�^�̍\�z���@
+### データの構築方法
 
-�E�F�u�A�[�J�C�u�̍\�z�ŗp������ Heritrix �N���[�����^�p���邱�Ƃ�1�N�Ԃɂ킽����3���������ɁA�Œ肵����1��URL�̃E�F�u�y�[�W�����W���܂����B ����ꂽ�E�F�u�y�[�W��nwc-toolkit��p���āA���{�ꕶ���o�Ɛ��K�����s���܂����B �R�s�[�T�C�g�̖����ɘa���邽�߂ɁA���P�ʂ̒P�ꉻ�i���̈قȂ���Ƃ邱�Ɓj���s���܂����B �`�ԑf��͊�MeCab-0.996 �ƌ`�ԑf��͗p����UniDic-2.1.2��p���Č`�ԑf��͂��s���A �����UniDic �厫�K���Ɋ�Â��W��󂯉�͊�CaboCha-0.69�ɂ��W��󂯉�͂��s���Ă��܂�
+ウェブアーカイブの構築で用いられる Heritrix クローラを運用することで1年間にわたって3か月おきに、固定した約1億URLのウェブページを収集しました。 得られたウェブページはnwc-toolkitを用いて、日本語文抽出と正規化を行いました。 コピーサイトの問題を緩和するために、文単位の単一化（文の異なりをとること）を行いました。 形態素解析器MeCab-0.996 と形態素解析用辞書UniDic-2.1.2を用いて形態素解析を行い、 さらにUniDic 主辞規則に基づく係り受け解析器CaboCha-0.69により係り受け解析を行っています
 
-### ���p�ł���f�[�^
+### 利用できるデータ
 
-2014�N10-12�����W�f�[�^�ɂ��\�z���� n-gram �f�[�^�A�P�ꖄ�ߍ��݃f�[�^�A���O�w�K���f���Ȃǂ����ꎑ����������J���܂��B
+2014年10-12月収集データにより構築した n-gram データ、単語埋め込みデータ、事前学習モデルなどを言語資源協会より公開します。
 
 #### [NWJC-n-gram](https://github.com/masayu-a/NWJC/tree/master/NWJC-n-gram)
 
@@ -49,21 +49,21 @@ https://bonten.ninjal.ac.jp/
 
 #### [NWJC-BERT](https://github.com/masayu-a/NWJC/tree/master/NWJC-BERT)
 
-## �Q�l�����ɂ���
+## 参考文献について
 
-### �w���ꌤ���{��E�F�u�R�[�p�X�x
-- ���ۘ_�����F Masayuki Asahara, Kikuo Maekawa, Mizuho Imada, Sachi Kato, Hikari Konishi (2014)'Archiving and Analysing Techniques of the Ultra-large-scale Web-based Corpus Project of NINJAL, Japan', Alexandria, Vol 26, No.1-2, pp.129-148.
+### 『国語研日本語ウェブコーパス』
+- 国際論文誌： Masayuki Asahara, Kikuo Maekawa, Mizuho Imada, Sachi Kato, Hikari Konishi (2014)'Archiving and Analysing Techniques of the Ultra-large-scale Web-based Corpus Project of NINJAL, Japan', Alexandria, Vol 26, No.1-2, pp.129-148.
 
-- �����_�����E�I�v�F �󌴐��K, ���c����, �ۓc��, ������, �O���v�Y (2014) �uWeb ���W�c�Ƃ�������K�̓R�[�p�X�̊J���@���W�Ƒg�D���v, �������ꌤ�����_�W, 7��, pp.1-26.
+- 国内論文誌・紀要： 浅原正幸, 今田水穂, 保田祥, 小西光, 前川喜久雄 (2014) 「Web を母集団とした超大規模コーパスの開発　収集と組織化」, 国立国語研究所論集, 7号, pp.1-26.
 
-- ���ۉ�c�\�e�W�F Masayuki Asahara, Kikuo Maekawa (2013) 'Design of a Web-scale Japanese Corpus', Proc.of Conference of the Pacific Association for Computational Linguistics (PACLING-2013).
+- 国際会議予稿集： Masayuki Asahara, Kikuo Maekawa (2013) 'Design of a Web-scale Japanese Corpus', Proc.of Conference of the Pacific Association for Computational Linguistics (PACLING-2013).
 
-### �w���V�x
-- �����_�����E�I�v�F �󌴐��K, �͌����, ���J�q, �O���v�Y (2018) �u�w���ꌤ���{��E�F�u�R�[�p�X�x�Ƃ��̌����n�w���V�x�v��񏈗��w��_����, Vol 59, No. 2, pp.299-306.
+### 『梵天』
+- 国内論文誌・紀要： 浅原正幸, 河原一哉, 大場寧子, 前川喜久雄 (2018) 「『国語研日本語ウェブコーパス』とその検索系『梵天』」情報処理学会論文誌, Vol 59, No. 2, pp.299-306.
 
-- ���ۉ�c�\�e�W�F Masayuki Asahara, Kazuya Kawahara, Yuya Takei, Hideto Masuoka, Yasuko Ohba, Yuki Torii, Toru Morii, Yuki Tanaka, Kikuo Maekawa, Sachi Kato and Hikari Konishi (2016) ''BonTen' - Corpus Concordance System for 'NINJAL Web Japanese Corpus'' Proc. of COLING-2016 Demo Session.
+- 国際会議予稿集： Masayuki Asahara, Kazuya Kawahara, Yuya Takei, Hideto Masuoka, Yasuko Ohba, Yuki Torii, Toru Morii, Yuki Tanaka, Kikuo Maekawa, Sachi Kato and Hikari Konishi (2016) ''BonTen' - Corpus Concordance System for 'NINJAL Web Japanese Corpus'' Proc. of COLING-2016 Demo Session.
 
-### �wNWJC2vec�x
+### 『NWJC2vec』
 - Masayuki Asahara (2018), `NWJC2Vec: Word embedding dataset from 'NINJAL Web Japanese Corpus'', Terminology: International Journal of Theoretical and Applied Issues in Specialized Communication, Vol. 24, No. 2. pp.7-25.
 
-### �wNWJC-BERT�x
+### 『NWJC-BERT』

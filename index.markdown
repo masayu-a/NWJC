@@ -19,13 +19,14 @@ ___
 
 『国語研日本語ウェブコーパス』は検索系『梵天』に格納して公開しています。
 
-https://bonten.ninjal.ac.jp/
-
 検索系として「文字列検索」「品詞列検索」「係り受け部分木検索」の3通りの検索機能を提供します。 一般公開版は「文字列検索」のみが利用できます。
 
 フロンドエンドはコーパス管理ソフトウェア「ChaKi.NET」を参考にして、ウェブ上で動作するインターフェイスの開発を株式会社万葉に委託しました。 バックエンドには株式会社レトリバのSedue for Bigdataを用いています。
 
 なお、『梵天』は 2021年9月末を持ってサービスを停止します。
+
+- [検索系『梵天』](https://bonten.ninjal.ac.jp/)
+- [『梵天』の詳細について](https://masayu-a.github.io/NWJC/bonten/)
 
 ___
 
@@ -59,18 +60,23 @@ ___
 ## 参考文献について
 
 ### 『国語研日本語ウェブコーパス』
-- 国際論文誌： Masayuki Asahara, Kikuo Maekawa, Mizuho Imada, Sachi Kato, Hikari Konishi (2014)'Archiving and Analysing Techniques of the Ultra-large-scale Web-based Corpus Project of NINJAL, Japan', Alexandria, Vol 26, No.1-2, pp.129-148.
+> 国際論文誌： Masayuki Asahara, Kikuo Maekawa, Mizuho Imada, Sachi Kato, Hikari Konishi (2014)'Archiving and Analysing Techniques of the Ultra-large-scale Web-based Corpus Project of NINJAL, Japan', Alexandria, Vol 26, No.1-2, pp.129-148.
 
-- 国内論文誌・紀要： 浅原正幸, 今田水穂, 保田祥, 小西光, 前川喜久雄 (2014) 「Web を母集団とした超大規模コーパスの開発　収集と組織化」, 国立国語研究所論集, 7号, pp.1-26.
+> 国内論文誌・紀要： 浅原正幸, 今田水穂, 保田祥, 小西光, 前川喜久雄 (2014) 「Web を母集団とした超大規模コーパスの開発　収集と組織化」, 国立国語研究所論集, 7号, pp.1-26.
 
-- 国際会議予稿集： Masayuki Asahara, Kikuo Maekawa (2013) 'Design of a Web-scale Japanese Corpus', Proc.of Conference of the Pacific Association for Computational Linguistics (PACLING-2013).
+> 国際会議予稿集： Masayuki Asahara, Kikuo Maekawa (2013) 'Design of a Web-scale Japanese Corpus', Proc.of Conference of the Pacific Association for Computational Linguistics (PACLING-2013).
 
 ### 『梵天』
-- 国内論文誌・紀要： 浅原正幸, 河原一哉, 大場寧子, 前川喜久雄 (2018) 「『国語研日本語ウェブコーパス』とその検索系『梵天』」情報処理学会論文誌, Vol 59, No. 2, pp.299-306.
+> 国内論文誌・紀要： 浅原正幸, 河原一哉, 大場寧子, 前川喜久雄 (2018) 「『国語研日本語ウェブコーパス』とその検索系『梵天』」情報処理学会論文誌, Vol 59, No. 2, pp.299-306.
 
-- 国際会議予稿集： Masayuki Asahara, Kazuya Kawahara, Yuya Takei, Hideto Masuoka, Yasuko Ohba, Yuki Torii, Toru Morii, Yuki Tanaka, Kikuo Maekawa, Sachi Kato and Hikari Konishi (2016) ''BonTen' - Corpus Concordance System for 'NINJAL Web Japanese Corpus'' Proc. of COLING-2016 Demo Session.
+> 国際会議予稿集： Masayuki Asahara, Kazuya Kawahara, Yuya Takei, Hideto Masuoka, Yasuko Ohba, Yuki Torii, Toru Morii, Yuki Tanaka, Kikuo Maekawa, Sachi Kato and Hikari Konishi (2016) ''BonTen' - Corpus Concordance System for 'NINJAL Web Japanese Corpus'' Proc. of COLING-2016 Demo Session.
 
 ### 『NWJC2vec』
-- Masayuki Asahara (2018), `NWJC2Vec: Word embedding dataset from 'NINJAL Web Japanese Corpus'', Terminology: International Journal of Theoretical and Applied Issues in Specialized Communication, Vol. 24, No. 2. pp.7-25.
+> 国際論文誌： Masayuki Asahara (2018), `NWJC2Vec: Word embedding dataset from 'NINJAL Web Japanese Corpus'', Terminology: International Journal of Theoretical and Applied Issues in Specialized Communication, Vol. 24, No. 2. pp.7-25.
 
 ### 『NWJC-BERT』
+
+> 国内学会： 浅原正幸・西内沙恵・加藤祥 (2020), NWJC-BERT: 多義語に対するヒトと文脈化単語埋め込みの類似性判断の対照分析, 言語処理学会第26回年次大会発表論文集, pp.961-964.
+
+https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/B4-4.pdf
+

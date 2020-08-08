@@ -37,7 +37,7 @@ word2vec -train nwjc_word.txt -output nwjc_word_1_200_8_25_0_1e4_32_0_15.txt \\ 
 ### nwjc_word_skip_200_8_25_0_1e4_6_0_15.txt.vec (GSK から公開)
 fastText による訓練 (skip-gram, 200次元, 文脈長 8, 負サンプリング数 25, 階層化 softmax 0, 最低頻度閾値 1e-4, 反復回数 15)
 ```
-fasttext skipgram -input nwjc_word.txt -output nwjc_word_skip_200_8_25_0_1e4_6_1_0_15.txt -dim 300 -ws 8 -neg 25 
+fasttext skipgram -input nwjc_word.txt -output nwjc_word_skip_200_8_25_0_1e4_6_1_0_15.txt -dim 00 -ws 8 -neg 25 
 ```
 
 ### nwjc_word_cbow_300_8_25_0_1e4_6_1_0_15.txt.vec (GSK から公開)

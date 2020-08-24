@@ -28,7 +28,7 @@ Japanese
 
 ## Features 
 
-### NWJC-character-1gram.zip
+### NWJC-character-1gram.zip (GSK から公開 & github 上でも公開)
 文字 1-gram データ
 
 ### NWJC-character-2gram.zip (GSK から公開)
@@ -37,7 +37,7 @@ Japanese
 ### NWJC-character-3gram.zip (GSK から公開)
 文字 3-gram データ
 
-### NWJC-surface-1gram.zip 
+### NWJC-surface-1gram.zip (GSK から公開 & github 上でも公開)
 表層形 1-gram データ
 
 ### NWJC-surface-2gram.zip (GSK から公開)

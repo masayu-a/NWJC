@@ -8,8 +8,6 @@ Description: <a href="https://masayu-a.github.io/NWJC/">「国語研日本語ウ
 形態素解析は、MeCab-0.996 と UniDic-2.1.2による。
 語彙は、UniDic の機能語（語彙素）と UniDic-分類語彙表対応表中の語彙素 48,914語彙素からなる。
 
-
-
 Creator:
 人間文化研究機構　国立国語研究所　コーパス開発センター
 

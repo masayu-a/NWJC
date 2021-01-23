@@ -1,8 +1,9 @@
-# NWJC-n-gram
+# NWJC-n-gram (2021/01/23 版)
 
 ## Description
 「国語研日本語ウェブコーパス」258億語 (2014-4Qデータ) のn-gram 頻度データ
 文字 1-gram～3-gram、単語 1-gram～6-gram、形態素 1-gram からなる。
+（従前のデータに問題がありましたので作り直しました）
 
 ## Creator
 人間文化研究機構　国立国語研究所　コーパス開発センター
@@ -30,33 +31,44 @@ Japanese
 
 ### NWJC-character-1gram.zip (GSK から公開 & github 上でも公開)
 文字 1-gram データ
+[文字]\t[頻度]
 
 ### NWJC-character-2gram.zip (GSK から公開)
 文字 2-gram データ
+[文字列（スペース区切り）]\t[頻度]
 
 ### NWJC-character-3gram.zip (GSK から公開)
 文字 3-gram データ
+[文字列（スペース区切り）]\t[頻度]
 
 ### NWJC-surface-1gram.zip (GSK から公開 & github 上でも公開)
 表層形 1-gram データ
+[表層形]\t[頻度]
 
 ### NWJC-surface-2gram.zip (GSK から公開)
 表層形 2-gram データ
+[表層形列（スペース区切り）]\t[頻度]
 
 ### NWJC-surface-3gram.zip (GSK から公開)
 表層形 3-gram データ
+[表層形列（スペース区切り）]\t[頻度]
 
 ### NWJC-surface-4gram-cutoff-3.zip (GSK から公開)
-表層形 4-gram データ (頻度4以上)
+表層形 4-gram データ (頻度3以上)
+[表層形列（スペース区切り）]\t[頻度]
 
 ### NWJC-surface-5gram.zip (GSK から公開)
-表層形 5-gram データ (頻度4以上)
+表層形 5-gram データ (頻度3以上)
+[表層形列（スペース区切り）]\t[頻度]
 
 ### NWJC-surface-6gram.zip (GSK から公開)
-表層形 6-gram データ (頻度4以上)
+表層形 6-gram データ (頻度3以上)
+[表層形列（スペース区切り）]\t[頻度]
 
 ### NWJC-morpheme-1gram.zip (GSK から公開)
 形態素 1-gram データ
+[表層形]\t[形態論情報]\t[頻度]
+
 
 ## References 
 

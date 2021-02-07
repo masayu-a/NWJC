@@ -12,10 +12,10 @@ permalink: /bonten-tutorial
 
 いずれの資料もクリエイティブコモンズ表示-非営利-改変禁止 4.0 国際 (CC BY-NC-ND 4.0) です。
 
-- 『国語研日本語ウェブコーパス』の概要	[2018-03-20-nwjc.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-nwjc.pptx)
-- 国語研日本語ウェブコーパス　検索系：梵天（BonTen）	[2018-03-20-bonten.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-bonten.pptx)
-- かかりうけ	[2018-03-20-dependency.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-dependency.pptx)
-- コーパス管理システム　『ChaKi.NET』：梵天編	[2018-03-20-chaki-tutorial.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-chaki-tutorial.pptx)
+- 『国語研日本語ウェブコーパス』の概要	[2018-03-20-nwjc.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-nwjc.pptx) [http://doi.org/10.15084/00003101](http://doi.org/10.15084/00003101)
+- 国語研日本語ウェブコーパス　検索系：梵天（BonTen）	[2018-03-20-bonten.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-bonten.pptx) [http://doi.org/10.15084/00003102](http://doi.org/10.15084/00003102)
+- かかりうけ	[2018-03-20-dependency.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-dependency.pptx) [http://doi.org/10.15084/00003103](http://doi.org/10.15084/00003103)
+- コーパス管理システム　『ChaKi.NET』：梵天編	[2018-03-20-chaki-tutorial.pptx](https://github.com/masayu-a/NWJC/blob/master/tutorial/2018-03-20-chaki-tutorial.pptx) [http://doi.org/10.15084/00003104](http://doi.org/10.15084/00003104)
 
 ___
 

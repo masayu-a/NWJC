@@ -23,4 +23,3 @@ permalink: /archivement
 - [https://scholar.google.co.jp/scholar?cites=4280590282147803385](https://scholar.google.co.jp/scholar?cites=4280590282147803385)
 
 
-### NWJC-BERT 関連

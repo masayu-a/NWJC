@@ -74,10 +74,11 @@ https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/B4-4.pdf
 
 ___
 
-## 利用方法
+## NWJC 原文の利用方法
 
-[共同利用型共同研究（登録型）](https://www.ninjal.ac.jp/research/cfp/collaborative-use-register/) で申請をお願いいたします。
-research/cfp/collaborative-use-register/
+NWJC の原文の利用を希望する方は、事前に担当者に利用可能性を問い合わせのうえ、
+[共同利用型共同研究（登録型）](https://www.ninjal.ac.jp/research/cfp/collaborative-use-register/) に申請をお願いいたします。
+
 ___
 
 ## 検索系『梵天』（**『梵天』は 2021年12月24日を持ってサービスを停止しました。**）

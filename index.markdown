@@ -76,11 +76,11 @@ ___
 
 ## 利用方法
 
-[共同利用型共同研究（登録型）](https://www.ninjal.ac.jp/research/project-3/cfp/collaborative-use-register/) で申請をお願いいたします。
-
+[共同利用型共同研究（登録型）](https://www.ninjal.ac.jp/research/cfp/collaborative-use-register/) で申請をお願いいたします。
+research/cfp/collaborative-use-register/
 ___
 
-## 検索系『梵天』（『梵天』は **2021年12月24日**を持ってサービスを停止しました。）
+## 検索系『梵天』（**『梵天』は 2021年12月24日を持ってサービスを停止しました。**）
 
 『国語研日本語ウェブコーパス』は検索系『梵天』に格納して公開しています。
 

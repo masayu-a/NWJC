@@ -17,7 +17,7 @@ permalink: /
 ## 検索系『中納言』
 『国語研日本語ウェブコーパス』の一部 (86,277,772語：NWJC-2014-4Qの0.33%)を検索系『中納言』に格納して公開しています。
 
-- [NWJC『中納言』]([https://chunagon.ninjal.ac.jp/nwjc/search)
+- [NWJC『中納言』](https://chunagon.ninjal.ac.jp/nwjc/search)
 
 
 ___
@@ -74,7 +74,7 @@ https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/B4-4.pdf
 
 ___
 
-## NWJC 原文の利用方法 （** 2023年4月以降、利用可能なサーバがないために共有を停止しています。
+## NWJC 原文の利用方法 （** 2023年4月以降、利用可能なサーバがないために共有を停止しています。**)
 
 NWJC の原文の利用を希望する方は、事前に担当者に利用可能性を問い合わせのうえ、
 共同利用型共同研究（登録型）に申請をお願いいたします。

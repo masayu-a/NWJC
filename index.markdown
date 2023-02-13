@@ -41,11 +41,11 @@ ___
 
 2014年10-12月収集データにより構築した n-gram データ、単語埋め込みデータ、事前学習モデルなどを言語資源協会より公開します。
 
-#### [NWJC-n-gram](https://github.com/masayu-a/NWJC/tree/master/NWJC-n-gram)
+#### [NWJC-n-gram](https://github.com/masayu-a/NWJC/tree/master/NWJC-n-gram) [GSK2020-C](https://www.gsk.or.jp/catalog/gsk2020-c/)
 
-#### [NWJC2vec](https://github.com/masayu-a/NWJC/tree/master/NWJC2vec)
+#### [NWJC2vec](https://github.com/masayu-a/NWJC/tree/master/NWJC2vec) [GSK2020-D](https://www.gsk.or.jp/catalog/gsk2020-d)
 
-#### [NWJC-BERT](https://github.com/masayu-a/NWJC/tree/master/NWJC-BERT)
+#### [NWJC-BERT](https://github.com/masayu-a/NWJC/tree/master/NWJC-BERT) [GSK2020-E](https://www.gsk.or.jp/catalog/gsk2020-e)
 
 ___
 

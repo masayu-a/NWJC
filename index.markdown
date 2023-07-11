@@ -19,7 +19,8 @@ permalink: /
 
 - [NWJC『中納言』](https://chunagon.ninjal.ac.jp/nwjc/search)
 
-
+- **NWJC中納言の新規申請・追加申請を 2023年9月30日で廃止します。**
+- **NWJC中納言サービスを2024年2月29日で廃止します。**
 ___
 
 ## データについて

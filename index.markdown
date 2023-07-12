@@ -14,14 +14,26 @@ permalink: /
 『国語研日本語ウェブコーパス』および『梵天』は、国立国語研究所コーパス開発センター『超大規模コーパス』プロジェクト(2011年-2015年)により作成されました。
 
 ---
-## 検索系『中納言』
+## 検索系「中納言」
 『国語研日本語ウェブコーパス』の一部 (86,277,772語：NWJC-2014-4Qの0.33%)を検索系『中納言』に格納して公開しています。
 
-- [NWJC『中納言』](https://chunagon.ninjal.ac.jp/nwjc/search)
+[NWJC『中納言』ページ](https://chunagon.ninjal.ac.jp/nwjc/search)
 
-- **NWJC中納言の新規申請・追加申請を 2023年9月30日で廃止します。**
-- **NWJC中納言サービスを2024年2月29日で廃止します。**
+- **収集時期と比べて、リンク切れのデータが増えてきたことを鑑み、「中納言」によるNWJCの公開を停止します。**
+- **NWJC「中納言」の新規申請・追加申請を 2023年9月30日で廃止します。**
+- **NWJC「中納言」サービスを2024年2月29日で廃止します。**
 
+NWJC 「中納言」での公開停止以降の NWJC の利用は、共同利用型共同利用(C) にて国語研所内サーバでの利用のほか、
+語彙表・n-gram などの利用に限定されます。
+
+- 共同利用型共同利用(C)： 　https://www.ninjal.ac.jp/research/cfp/jupc/
+- 語彙表データ：　　　　　https://github.com/masayu-a/NWJC
+- NWJC-n-gram：　　　　　https://www.gsk.or.jp/catalog/gsk2020-c/
+- NWJC2vec：　　　　　　　https://www.gsk.or.jp/catalog/gsk2020-d
+- NWJC-BERT：　　　　　　https://www.gsk.or.jp/catalog/gsk2020-e
+- chiVe（Sudachi とNWJCによる日本語単語ベクトル：ワークス社）　https://github.com/WorksApplications/chiVe
+- chiTra（SudachiとNWJCによるTransformerモデル：ワークス社）
+https://github.com/WorksApplications/SudachiTra
 
 ---
 

@@ -35,6 +35,7 @@ NWJC 「中納言」での公開停止以降の NWJC の利用は、共同利用
 - chiTra（SudachiとNWJCによるTransformerモデル：ワークス社）
 https://github.com/WorksApplications/SudachiTra
 
+本件問い合わせ先： masayu-a@ninjal.ac.jp
 ---
 
 ## データについて

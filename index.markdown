@@ -99,20 +99,25 @@ ___
 > 国際会議予稿集： Masayuki Asahara, Kikuo Maekawa (2013) 'Design of a Web-scale Japanese Corpus', Proc.of Conference of the Pacific Association for Computational Linguistics (PACLING-2013).
 
 ### 『梵天』
-> 国内論文誌・紀要： 浅原正幸, 河原一哉, 大場寧子, 前川喜久雄 (2018) 「『国語研日本語ウェブコーパス』とその検索系『梵天』」情報処理学会論文誌, Vol 59, No. 2, pp.299-306.
+> 国内論文誌： 浅原正幸, 河原一哉, 大場寧子, 前川喜久雄 (2018) 「『国語研日本語ウェブコーパス』とその検索系『梵天』」情報処理学会論文誌, Vol 59, No. 2, pp.299-306.
 
 > 国際会議予稿集： Masayuki Asahara, Kazuya Kawahara, Yuya Takei, Hideto Masuoka, Yasuko Ohba, Yuki Torii, Toru Morii, Yuki Tanaka, Kikuo Maekawa, Sachi Kato and Hikari Konishi (2016) ''BonTen' - Corpus Concordance System for 'NINJAL Web Japanese Corpus'' Proc. of COLING-2016 Demo Session.
 
 ### 『NWJC2vec』
 > 国際論文誌： Masayuki Asahara (2018), `NWJC2Vec: Word embedding dataset from 'NINJAL Web Japanese Corpus'', Terminology: International Journal of Theoretical and Applied Issues in Specialized Communication, Vol. 24, No. 2. pp.7-25.
 
+> 国内論文誌： 新納浩幸, 浅原正幸, 古宮嘉那子, 佐々木稔 (2017), 「nwjc2vec: 国語研日本語ウェブコーパスから構築した単語の分散表現データ」, 自然言語処理, Vol. 24, No. 5, pp.705-720.
+
+### 『chiVe』
+> 国内学会：真鍋陽俊, 岡照晃, 海川祥毅, 髙岡一馬, 内田佳孝, 浅原正幸 (2019), 「複数粒度の分割結果に基づく日本語単語分散表現」. 言語処理学会第 25 回年次大会発表論文集.
+
 ### 『NWJC-BERT』
 
-> 国内学会： 浅原正幸・西内沙恵・加藤祥 (2020), NWJC-BERT: 多義語に対するヒトと文脈化単語埋め込みの類似性判断の対照分析, 言語処理学会第26回年次大会発表論文集, pp.961-964.
+> 国内学会： 浅原正幸, 西内沙恵, 加藤祥 (2020), 「NWJC-BERT: 多義語に対するヒトと文脈化単語埋め込みの類似性判断の対照分析」, 言語処理学会第26回年次大会発表論文集, pp.961-964.
 
-https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/B4-4.pdf
+### 『chiTra』
 
-
+> 国内学会：勝田哲弘, 林政義, 山村崇, Tolmachev Arseny, 高岡一馬, 内田佳孝, 浅原正幸 (2022), 「単語正規化による表記ゆれに頑健な BERT モデルの構築」, 言語処理学会第28回年次大会発表論文集.
 
 ___
 

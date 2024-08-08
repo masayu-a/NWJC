@@ -31,6 +31,8 @@ https://github.com/WorksApplications/SudachiTra
 情報解析用途のために『国語研日本語ウェブコーパス』全データを共同研究先に共有します(2024年
 8月～)。
 
+- [whole-NWJC:『国語研日本語ウェブコーパス』全データ](https://doi.org/10.51094/jxiv.836)
+
 | [1st 1億URL] | 2012-4Q | 2013-1Q | 2013-2Q | 2013-3Q |
 |-------------|---------|---------|---------|---------|
 | warcファイル数   | 910     | 878     | 910     | 906     |
@@ -50,6 +52,7 @@ https://github.com/WorksApplications/SudachiTra
 NWJC (whole-NWJC) の利用を希望する方は、事前に利用可能性を問い合わせのうえ、
 共同利用型共同研究（c）に申請をお願いいたします。
 https://www.ninjal.ac.jp/research/cfp/jupc/
+
 
 企業の方は共同研究契約を結ぶことで利用が可能です。
 

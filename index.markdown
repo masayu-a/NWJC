@@ -16,13 +16,12 @@ permalink: /
 ---
 
 
-- 語彙表データ：　　　　　https://github.com/masayu-a/NWJC
-- NWJC-n-gram：　　　　　https://www.gsk.or.jp/catalog/gsk2020-c/
-- NWJC2vec：　　　　　　　https://www.gsk.or.jp/catalog/gsk2020-d
-- NWJC-BERT：　　　　　　https://www.gsk.or.jp/catalog/gsk2020-e
-- chiVe（Sudachi とNWJCによる日本語単語ベクトル：ワークス社）　https://github.com/WorksApplications/chiVe
-- chiTra（SudachiとNWJCによるTransformerモデル：ワークス社）
-https://github.com/WorksApplications/SudachiTra
+- 語彙表データ：　　　　　[https://github.com/masayu-a/NWJC/](https://github.com/masayu-a/NWJC/)
+- NWJC-n-gram：　　　　　[https://www.gsk.or.jp/catalog/gsk2020-c/](https://www.gsk.or.jp/catalog/gsk2020-c/)
+- NWJC2vec：　　　　　　　[https://www.gsk.or.jp/catalog/gsk2020-d/](https://www.gsk.or.jp/catalog/gsk2020-d/)
+- NWJC-BERT：　　　　　　[https://www.gsk.or.jp/catalog/gsk2020-e/](https://www.gsk.or.jp/catalog/gsk2020-e/)
+- chiVe（Sudachi とNWJCによる日本語単語ベクトル：ワークス社）　[https://github.com/WorksApplications/chiVe/](https://github.com/WorksApplications/chiVe/)
+- chiTra（SudachiとNWJCによるTransformerモデル：ワークス社） [https://github.com/WorksApplications/SudachiTra](https://github.com/WorksApplications/SudachiTra)
 - whole-NWJC：   『国語研日本語ウェブコーパス』全データ
 
 ----
@@ -51,7 +50,7 @@ https://github.com/WorksApplications/SudachiTra
 ### データの利用方法
 NWJC (whole-NWJC) の利用を希望する方は、事前に利用可能性を問い合わせのうえ、
 共同利用型共同研究（c）に申請をお願いいたします。
-https://www.ninjal.ac.jp/research/cfp/jupc/
+[https://www.ninjal.ac.jp/research/cfp/jupc/](https://www.ninjal.ac.jp/research/cfp/jupc/)
 
 
 企業の方は共同研究契約を結ぶことで利用が可能です。
@@ -84,12 +83,6 @@ https://www.ninjal.ac.jp/research/cfp/jupc/
 #### [NWJC2vec](https://github.com/masayu-a/NWJC/tree/master/NWJC2vec) [GSK2020-D](https://www.gsk.or.jp/catalog/gsk2020-d)
 
 #### [NWJC-BERT](https://github.com/masayu-a/NWJC/tree/master/NWJC-BERT) [GSK2020-E](https://www.gsk.or.jp/catalog/gsk2020-e)
-
-### 原文の利用方法 
-
-NWJC (2014-4Q) の原文の利用を希望する方は、事前に利用可能性を問い合わせのうえ、
-共同利用型共同研究（c）に申請をお願いいたします。
-https://www.ninjal.ac.jp/research/cfp/jupc/
 
 ___
 

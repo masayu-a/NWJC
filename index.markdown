@@ -21,7 +21,7 @@ permalink: /
 - NWJC2vec：　　　　　　　[https://www.gsk.or.jp/catalog/gsk2020-d/](https://www.gsk.or.jp/catalog/gsk2020-d/)
 - NWJC-BERT：　　　　　　[https://www.gsk.or.jp/catalog/gsk2020-e/](https://www.gsk.or.jp/catalog/gsk2020-e/)
 - chiVe（Sudachi とNWJCによる日本語単語ベクトル：ワークス社）　[https://github.com/WorksApplications/chiVe/](https://github.com/WorksApplications/chiVe/)
-- chiTra（SudachiとNWJCによるTransformerモデル：ワークス社） [https://github.com/WorksApplications/SudachiTra](https://github.com/WorksApplications/SudachiTra)
+- chiTra（SudachiとNWJCによるTransformerモデル：ワークス社） [https://github.com/WorksApplications/SudachiTra/](https://github.com/WorksApplications/SudachiTra/)
 - whole-NWJC：   『国語研日本語ウェブコーパス』全データ
 
 ----

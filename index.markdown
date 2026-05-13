@@ -49,9 +49,8 @@ permalink: /
 
 ### データの利用方法
 NWJC (whole-NWJC) の利用を希望する方は、事前に利用可能性を問い合わせのうえ、
-共同利用型共同研究（c）に申請をお願いいたします。
-[https://www.ninjal.ac.jp/research/cfp/jupc/](https://www.ninjal.ac.jp/research/cfp/jupc/)
-
+共同利用型共同研究に申請をお願いいたします。
+[https://www.ninjal.ac.jp/research/cfp/jupb/](https://www.ninjal.ac.jp/research/cfp/jupb/)
 
 企業の方は共同研究契約を結ぶことで利用が可能です。
 
